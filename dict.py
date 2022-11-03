@@ -1,3 +1,4 @@
+'''dictionary'''
 phonebook = {
 "bob": 7387,
 "alice": 3719,

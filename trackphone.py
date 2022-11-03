@@ -1,3 +1,6 @@
+'''
+this program is used to determine the country or location of a provided phone number
+'''
 import phonenumbers
 
 # import geocoder

@@ -1,4 +1,6 @@
-# count occurence of elements in a string 
+'''
+count occurence of elements in a string 
+'''
 
 def solution(A):
     B=[int(i)for i in A]

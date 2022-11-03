@@ -1,3 +1,7 @@
+'''
+Detemine if a given number is a prime number.
+'''
+
 # To take input from the user
 num = int(input("Enter a number: "))
 
